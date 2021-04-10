@@ -1,1 +1,5 @@
 # C-airline-management
+c++ airline management oops based program,
+Flight Reservation System is based on a concept of booking and canceling flight reservations. Here, the system contains no login feature. The users can easily book flights, cancel flight reservation, and check tickets. It contains different payment options for the reservations. This mini project contains fewer features but the essential ones.
+
+Talking about the features of Flight Reservation System, for a flight reservation the user has to select whether he/she want domestic or international and date of journey. Then the system displays the city and the countries name and the user has to provide Source and Destination. After this, the system checks whether the flight is available or not, if it’s available then the system displays Airlines list with Departure and Arrival time, Price and Category. The system asks for the passenger’s information such as name, contact details, gender, email id. At last, for the payment process, the user has to select whether to pay from Debit, Credit or Net bankings.
